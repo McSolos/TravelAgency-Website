@@ -1,0 +1,28 @@
+/* Style the article card */
+.article-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  /* Hide the full article initially */
+  .article-full {
+    display: none;
+  }
+  
+  /* Style the expand button */
+  .expand-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Style the button when hovered */
+  .expand-btn:hover {
+    background-color: #2980b9;
+  }
+  
